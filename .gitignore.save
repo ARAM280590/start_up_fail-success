@@ -1,0 +1,7 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore CSV files (optional, if you don’t want them tracked)
+*.csv
+.DS_Store
+
